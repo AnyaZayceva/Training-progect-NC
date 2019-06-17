@@ -1,1 +1,1 @@
-# Training-progect-NC
+# Training-project-NC
